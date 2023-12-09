@@ -8,6 +8,7 @@ module.exports = {
       },
       colors: {
         'logo-main': '#08ffff',
+        'footer-text': '#292929'
       },
       fontFamily: {
         main: ['Montserrat'],
